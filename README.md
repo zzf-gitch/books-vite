@@ -1,4 +1,4 @@
-# code
+# books-vite
 
 ## Project setup
 ```
